@@ -3,7 +3,7 @@ name: Feature request
 about: Suggest an idea for workflowr
 ---
 
-Before posting your issue, please search the existing Issues (both "open" and "closed" issues) to check that a similar question has not already been posted.
+Before posting your issue, please search the existing issues (both "open" and "closed") to check that a similar feature has not already been requested.
 
 1. Describe the suggested feature.
 

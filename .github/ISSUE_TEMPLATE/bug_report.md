@@ -1,14 +1,15 @@
 ---
 name: Bug report
-about: Create a report to help us improve workflowr
+about: Create a bug report to help us improve workflowr
 ---
 
-Before posting your issue, please search the existing Issues (both "open" and "closed" issues) to check that a similar question has not already been posted.
+Before reporting your bug, please search the existing issues (both "open" and "closed") to check that a similar bug has not already been reported.
 
 1. Give the exact command or line of code you ran that caused the issue, e.g., `wflow_publish("myanalysis.Rmd")`.
 
 2. Describe the result of running the command or code, including any
    warning or error messages.
 
-3. Tell us the version of workflowr you are using. Run `packageVersion("workflowr")` in R or RStudio, and copy & paste the output here.
- 
+3. Tell us about your computing environment, including the version of
+   R, RStudio and workflowr you are using. The simplest way to do this
+   is to run `sessionInfo()` in R and copy the output here.
