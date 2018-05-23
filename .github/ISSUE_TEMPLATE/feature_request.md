@@ -1,12 +1,13 @@
 ---
 name: Feature request
 about: Suggest an idea for this project
-
 ---
 
-**Describe the feature you'd like**
+**Describe the suggested feature.**
 
-**Describe alternatives you've considered**
+**Describe why you think this feature is needed.**
 
-**Version of workflowr**
-<!-- Copy-paste the output of `packageVersion("workflowr")` -->
+**Tell us the version of workflowr you are using.**
+
+*Run `packageVersion("workflowr")` in R, and copy & paste the output
+here.*
