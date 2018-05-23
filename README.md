@@ -1,2 +1,2 @@
 # test-issue-templates
-Temporary to test GitHub Issue Templates
+Temporary repo to test GitHub Issue Templates
