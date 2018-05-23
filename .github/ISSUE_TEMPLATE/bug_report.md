@@ -12,4 +12,5 @@ Before reporting your bug, please search the existing issues (both "open" and "c
 
 3. Tell us about your computing environment, including the version of
    R, RStudio and workflowr you are using. The simplest way to do this
-   is to run `sessionInfo()` in R and copy the output here.
+   is to run `sessionInfo()` in R (and `RStudio.Version()` if you are
+   using RStudio) and copy the output here.
