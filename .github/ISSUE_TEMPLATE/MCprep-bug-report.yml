@@ -33,7 +33,7 @@ body:
     validations:
       required: true
   - type: textarea
-      id: MCprep-version
+      id: MCprep_version
       attributes:
         label: What MCprep version are you using?
         placeholder: My MCprep version is...
@@ -41,7 +41,7 @@ body:
       validations:
         required: true
   - type: textarea
-      id: Blender-version
+      id: Blender_version
       attributes:
         label: What Blender version are you using?
         placeholder: My Blender version is...
