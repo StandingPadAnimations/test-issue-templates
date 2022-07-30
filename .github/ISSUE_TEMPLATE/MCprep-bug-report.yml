@@ -33,7 +33,7 @@ body:
     validations:
       required: true
   - type: textarea
-      id: MCprep_version
+      id: "MCprep_version"
       attributes:
         label: What MCprep version are you using?
         placeholder: My MCprep version is...
