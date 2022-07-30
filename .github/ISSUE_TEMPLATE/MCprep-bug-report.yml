@@ -24,14 +24,14 @@ body:
       options:
         - label: Yes, the issue indeed continued after restarting Blender
           required: true
-    - type: textarea
-      id: steps-to-reproduce
-      attributes:
-        label: What steps are needed to produce the bug?
-        placeholder: Tell us what you did!
-        value: "Step 1: "
-      validations:
-        required: true
+  - type: textarea
+    id: steps-to-reproduce
+    attributes:
+      label: What steps are needed to produce the bug?
+      placeholder: Tell us what you did!
+      value: "Step 1: "
+    validations:
+      required: true
   - type: textarea
       id: MCprep-version
       attributes:
